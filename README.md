@@ -1,2 +1,2 @@
 # rlswarm-build
-A repository dedicated to building a swarm
+A repository dedicated to participating in Gensyn Swarm
